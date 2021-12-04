@@ -62,7 +62,7 @@
         <div class="container"><a class="navbar-brand" href="#" style="color: #093d25;">Thicc SMP</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link active" href="#about" style="color: #093d25;">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about" style="color: #093d25;">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#faq" style="color: #093d25;">FAQ</a></li>
                     <li class="nav-item"><a class="nav-link" href="#donate" style="color: #093d25;">Donate</a></li>
                     <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" style="color: #093d25;" href="#">Links</a>
